@@ -4,6 +4,6 @@ Esta Guía de referencia para la CIE-11 se divide en 3 partes. Si bien cada Part
 
 Si desea obtener una **comprensión amplia** y **general de ICD-11** , con poca o ninguna experiencia previa con ICD, le sugerimos que comience con la **Parte 1** .
 
-- aaa
+- aaa espagnol
 - bbb
 - ccc
